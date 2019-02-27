@@ -1,6 +1,10 @@
 # dataStructuresAlgorithmsExamples
 personal code from DS and Algorithms class
 
+this is a good video on what to know for coding interview
+
+https://youtu.be/PnnsDf3zEMw
+
 .Net API references
 
 Lists (singly and doubly)
